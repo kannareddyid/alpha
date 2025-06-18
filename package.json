@@ -16,7 +16,7 @@
   },
   "build": {
     "appId": "com.chunginlee.interviewcoder",
-    "productName": "Interview Coder",
+    "productName": "Alpha",
     "files": [
       "dist/**/*",
       "dist-electron/**/*",
